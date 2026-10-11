@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/farvisun/squi/releases/download/v0.2.0/squi_0.2.0_windows_amd64.zip",
+            "bin": [
+                "squi.exe"
+            ],
+            "hash": "d5b9cc489caf10d26c2c0d075c9eafb1479416245c45c651eca9ec55c49c3acb"
+        },
+        "arm64": {
+            "url": "https://github.com/farvisun/squi/releases/download/v0.2.0/squi_0.2.0_windows_arm64.zip",
+            "bin": [
+                "squi.exe"
+            ],
+            "hash": "7cbd5875ee7c30a49ca4e5b0e3c17f76571ad45642a338dac796311a080315d3"
+        }
+    },
+    "homepage": "https://github.com/farvisun/squi",
+    "license": "MIT",
+    "description": "Lightweight terminal SQL client for PostgreSQL and MySQL"
+}
