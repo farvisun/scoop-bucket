@@ -1,19 +1,19 @@
 {
-    "version": "0.4.0",
+    "version": "0.5.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/farvisun/squi/releases/download/v0.4.0/squi_0.4.0_windows_amd64.zip",
+            "url": "https://github.com/farvisun/squi/releases/download/v0.5.0/squi_0.5.0_windows_amd64.zip",
             "bin": [
                 "squi.exe"
             ],
-            "hash": "2f2d0c5344a6eb8640d82e9da152baaf3239190f7870bd97ce2aed3fc5edc7ac"
+            "hash": "8a46dd6860936fdcfc2c6321a418806adb7d4db11b6c28ef7f72defd7ccb567d"
         },
         "arm64": {
-            "url": "https://github.com/farvisun/squi/releases/download/v0.4.0/squi_0.4.0_windows_arm64.zip",
+            "url": "https://github.com/farvisun/squi/releases/download/v0.5.0/squi_0.5.0_windows_arm64.zip",
             "bin": [
                 "squi.exe"
             ],
-            "hash": "0982a62dfe2a6278fb619bffea0477201d93baf993b913b32657bc49e5ed767a"
+            "hash": "7c9daee1d971079a0566db2c976a3c4434dc47eb9d90769a5f96f209fd44b51a"
         }
     },
     "homepage": "https://github.com/farvisun/squi",
