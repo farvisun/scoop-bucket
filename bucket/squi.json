@@ -1,22 +1,22 @@
 {
-    "version": "0.3.1",
+    "version": "0.4.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/farvisun/squi/releases/download/v0.3.1/squi_0.3.1_windows_amd64.zip",
+            "url": "https://github.com/farvisun/squi/releases/download/v0.4.0/squi_0.4.0_windows_amd64.zip",
             "bin": [
                 "squi.exe"
             ],
-            "hash": "1a23b30e540d454ff3076fd5c81736f691e1e51fa9a1cb2617900bf446eb9ef2"
+            "hash": "2f2d0c5344a6eb8640d82e9da152baaf3239190f7870bd97ce2aed3fc5edc7ac"
         },
         "arm64": {
-            "url": "https://github.com/farvisun/squi/releases/download/v0.3.1/squi_0.3.1_windows_arm64.zip",
+            "url": "https://github.com/farvisun/squi/releases/download/v0.4.0/squi_0.4.0_windows_arm64.zip",
             "bin": [
                 "squi.exe"
             ],
-            "hash": "fae5e241b459208303e1301706a67a3a2376cdb88f02f1cd7c9a0f5aabbe9b64"
+            "hash": "0982a62dfe2a6278fb619bffea0477201d93baf993b913b32657bc49e5ed767a"
         }
     },
     "homepage": "https://github.com/farvisun/squi",
     "license": "MIT",
-    "description": "Lightweight terminal SQL client for PostgreSQL, MySQL, MariaDB and ClickHouse"
+    "description": "Lightweight terminal SQL client for PostgreSQL, MySQL, MariaDB, ClickHouse, SQL Server and SQLite"
 }
